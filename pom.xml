@@ -40,8 +40,9 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
-
+ 
 	<build>
+	<finalName>springboot-jenkins-docker-sample</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
